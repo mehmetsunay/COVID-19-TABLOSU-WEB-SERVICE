@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\WindowsFormsCovid19.exe.config
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\WindowsFormsCovid19.exe
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\WindowsFormsCovid19.pdb
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.frm_covid.resources
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.Properties.Resources.resources
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.exe
+C:\Users\User\source\repos\CSharpPart4\WindowsFormsCovid19\obj\Debug\WindowsFormsCovid19.pdb
